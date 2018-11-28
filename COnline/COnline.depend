@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542198111 source:d:\code\c\conline\main.c
+	<stdio.h>
+	<math.h>
+

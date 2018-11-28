@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542419995 source:d:\code\c\avg\main.c
+	<stdio.h>
+	<stdlib.h>
+

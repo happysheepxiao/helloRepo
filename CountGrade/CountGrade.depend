@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542847882 source:d:\code\c\countgrade\main.c
+	<stdio.h>
+	<stdlib.h>
+
